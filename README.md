@@ -4,3 +4,7 @@ A dynamic rules engine which can be used to execute simple logic / decisions via
 
 e.g. of a Rule Configuration
 
+<RulesEngineSection>  
+  <Rule group = "" priority = "">
+</RulesEngineSection>
+
