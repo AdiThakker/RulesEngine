@@ -1,6 +1,6 @@
-# RulesEngine
+ # RulesEngine
 
-A dynamic rules engine which can be used to execute simple logic / decisions via configuration.
+A dynamic rules engine which can be used to execute simple logic / decisions via configuration using Expression Trees.
 
 e.g. of a Rule Configuration
 
